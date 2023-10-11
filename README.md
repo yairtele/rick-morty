@@ -1,4 +1,4 @@
-The application is currently deployed and you can test it [Here](yairtele-rick-morty.netlify.app).
+The application is currently deployed and you can test it [Here](https://yairtele-rick-morty.netlify.app).
 
 # Getting Started with Create React App
 
